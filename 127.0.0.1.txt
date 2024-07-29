@@ -1,0 +1,1 @@
+('Your current date and time is : ', '2024-07-29 10:36:47') : ('Your message is:', 'Gud mrng Everyoneeeee!!')
